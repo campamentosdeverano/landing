@@ -1,3 +1,3 @@
-# Landing page
+# Landing
 
-Our landing page for [campamentos de verano](http://www.campamentosdeverano.me)
+La mejor página de [campamentos de verano](http://www.campamentosdeverano.me)
